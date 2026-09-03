@@ -1,6 +1,6 @@
 # GoCrypter Builder
 
-![GoCrypter](screenshot.png)
+![GoCrypter](/screenshot/img.png)
 
 A lightweight Windows GUI tool that wraps your `.exe` inside a native Go loader, encrypts the payload, and produces a single self-contained executable.
 
