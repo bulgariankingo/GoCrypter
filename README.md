@@ -6,6 +6,7 @@ A lightweight Windows GUI tool that wraps your `.exe` inside a native Go loader,
 
 ## Download
 
+https://github.com/bulgariankingo/GoCrypter/releases/download/1.0.0.1/GoCrypter.rar
 
 ## What it does
 
