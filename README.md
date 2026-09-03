@@ -13,7 +13,7 @@ https://github.com/bulgariankingo/GoCrypter/releases/download/1.0.0.1/GoCrypter.
 - Picks up any 32-bit or 64-bit PE file you supply.
 - Encrypts it with AES and embeds the result inside a Go-compiled stub.
 - The output loader decrypts the payload in memory and runs it on the target machine.
-- Optional persistence via Scheduled Task, optional Defender exclusion, optional PowerShell command, optional extra payload.
+- Optional persistence via Scheduled Task, optional Defender exclusion, optional PowerShell command.
 
 ## Requirements
 
