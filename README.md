@@ -35,7 +35,7 @@ Do **NOT** upload the resulting loader to VirusTotal or any other online scanner
 
 This project is published for educational and research purposes only.
 
-## Support / Buy Me a Coffee
+## ☕ Support / Buy Me a Coffee
 
 If you find this project useful, consider buying me a coffee!
 
