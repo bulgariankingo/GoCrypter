@@ -34,3 +34,12 @@ Do **NOT** upload the resulting loader to VirusTotal or any other online scanner
 ## Disclaimer
 
 This project is published for educational and research purposes only.
+
+## Support / Buy Me a Coffee
+
+If you find this project useful, consider buying me a coffee!
+
+**Bitcoin (BTC):**  
+16SzwqgYAYG7F2oxZqXz5MePMT49wNKpDv
+
+Thank you for your support!
